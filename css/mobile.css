@@ -475,7 +475,7 @@ textarea:hover {
 .section-staff-block {
   background-color: var(--color-second-white);
   padding-top: 96px;
-  padding-bottom: 128px;
+  padding-bottom: 96px;
 }
 .section-second-title-team {
   color: var(--color-second-text);
